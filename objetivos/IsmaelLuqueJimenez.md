@@ -13,6 +13,9 @@
 - [x] 5. Explicar la **práctica 0** (Fecha de entrega: jueves 29 de septiembre, 12:30 de la mañana).
 
 
+[//]: # (------------------------)
+
+
 ### Segunda semana (del 29 de septiembre al 5 de octubre de 2016)
 
 #### Objetivos de la semana
@@ -36,6 +39,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un *pull request*, en este caso al repo del compañero.
 
 
+[//]: # (------------------------)
+
+
 ### Tercera semana (del 6 al 12 de octubre de 2016)
 
 #### Objetivos de la semana
@@ -56,6 +62,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] Comprender el papel de las *build tools* o herramientas de automatización.
 
 
+[//]: # (------------------------)
+
+
 ### Cuarta semana (del 13 al 19 de octubre de 2016)
 
 #### Objetivos de la semana
@@ -70,6 +79,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] Comprender los mecanismos de despliegue automático.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
+
+
+[//]: # (------------------------)
 
 
 ### Quinta semana (del 20 al 26 de octubre de 2016)
@@ -91,6 +103,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [ ] 4. Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
 
 
+[//]: # (------------------------)
+
+
 ### Sexta semana (del 27 de octubre al 2 de noviembre de 2016)
 
 #### Objetivos de la semana
@@ -107,6 +122,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] 5. Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 
+[//]: # (------------------------)
+
+
 ### Séptima semana (del 3 al 9 de noviembre de 2016)
 
 #### Objetivos de la semana
@@ -116,6 +134,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 #### Otros objetivos
 
 - [x] 1. Resolver las dudas relativas a los PaaS y hacer los primeros despliegues de prueba.
+
+
+[//]: # (------------------------)
 
 
 ### Octava semana (del 10 al 16 de noviembre de 2016)
@@ -128,6 +149,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 #### Otros objetivos
 
 - [ ] 1. Instalar Docker y empezar a trabajar con él.
+
+
+[//]: # (------------------------)
 
 
 ### Novena semana (del 17 al 23 de noviembre de 2016)
@@ -144,6 +168,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] 3. Usar imágenes de Docker publicadas.
 
 
+[//]: # (------------------------)
+
+
 ### Décima semana (del 24 al 30 de noviembre de 2016)
 
 #### Objetivos de la semana
@@ -155,6 +182,9 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [x] 1. Publicar imágenes de docker.
 - [x] 2. Probar imágenes de docker publicadas.
 - [x] 3. Trabajar con varias imágenes de docker conectadas.
+
+
+[//]: # (------------------------)
 
 
 ### Undécima semana (del 1 al 7 de diciembre de 2016)
@@ -169,7 +199,42 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [ ] 2. Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 
----------------------------------------
+[//]: # (------------------------)
+
+
+### Duodécima semana (del 15 al 21 de diciembre de 2016)
+
+#### Objetivos de la semana
+
+- [ ] 1. Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [ ] 2. Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. 
+- [ ] 3. Entender los conceptos de los servicios en la nube.
+- [ ] 4. Entender el concepto de provisionamiento.
+
+#### Otros objetivos
+
+- [ ] 1. Instalar clientes de servicios en la nube.
+- [ ] 2. Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [ ] 3. Hacer pruebas de provisionamiento de servicios en la nube.
+
+
+[//]: # (------------------------)
+
+
+### Decimotercera semana (del 22 de diciembre de 2016 hasta final de año)
+
+#### Objetivos de la asignatura
+
+- [ ] 1. Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+#### Otros objetivos
+
+- [ ] 1. Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en
+[Meetup](https://www.meetup.com/es-ES/Granada-Geek/events/235054689/) y preparar un equipo para participar en el hackatón de por la tarde.
+
+
+------------------------------------------------------------------------------
+
 
 ## DE LOS TEMAS:
 
@@ -209,3 +274,10 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 - [ ] 2. Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 - [ ] 3. Documentar y mantener una plataforma virtual.
 - [ ] 4. Realizar tareas de administración de infraestructuras virtuales.
+
+
+### 6) Gestión de infraestructuras virtuales
+
+- [ ] 1. Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [ ] 2. Saber cómo aplicarlos en un caso determinado.
+- [ ] 3. Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
