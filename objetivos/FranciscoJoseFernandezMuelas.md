@@ -160,21 +160,21 @@
 
 ##### Otros objetivos
 
-- [ ] Instalar hipervisores libres y trabajar con ellos.
-- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] Instalar hipervisores libres y trabajar con ellos. [Ejercicio 1 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres. [Ejercicio 2 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
 
 ### Semana a partir del 15 de diciembre.
 
 - [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
-- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
-- [x] Entender los conceptos de los servicios en la nube.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.[Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
+- [x] Entender los conceptos de los servicios en la nube. [Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
 - [x] Entender el concepto de provisionamiento.
 
 ##### Otros objetivos
 
-- [x] Instalar clientes de servicios en la nube.
+- [x] Instalar clientes de servicios en la nube. [Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
 - [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
-- [ ] Hacer pruebas de provisionamiento de servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
 
 
 ### Semana a partir del 22 de diciembre.
@@ -184,3 +184,10 @@
 ##### Otros objetivos
 
 - [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+
+### Semana a partir del 14 de enero.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube. [Hito 5]
+
+### Semana a partir del 21 de enero.
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura (Consulta sobre la separación de funciones entre Vagrant, Ansible y Fabric)
