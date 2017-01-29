@@ -190,7 +190,71 @@
 ## Objetivos Semana 11
 
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
-- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [x] Instalar hipervisores libres y trabajar con ellos.
 - [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+
+## Objetivos ejercicios Virtualización completa: uso de máquinas virtuales
+
+[enlace a ejercicios tema 5](https://github.com/Sergiopopoulos/EjerciciosIV/blob/master/ejerciciostema5.md)
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+- [x] Documentar y mantener una plataforma virtual.
+
+- [x] Realizar tareas de administración de infraestructuras virtuales
+
+## Objetivos Semana 12
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+
+- [x] Entender los conceptos de los servicios en la nube.
+
+- [x] Entender el concepto de provisionamiento.
+
+- [x] Instalar clientes de servicios en la nube.
+
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Objetivos ejercicios Gestión de infraestructuras virtuales
+
+[enlace a ejercicios tema 6](https://github.com/Sergiopopoulos/EjerciciosIV/blob/master/ejerciciostema6.md)
+
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+- [x] Documentar y mantener una plataforma virtual.
+
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+
+- [x] Saber cómo aplicarlos en un caso determinado.
+
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
+
+## Objetivos Semana 13
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+## Objetivos Semana 14
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+- [x] Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+## Objetivos Semana 15
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
+
 
 
