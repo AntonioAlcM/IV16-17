@@ -168,13 +168,13 @@
 - [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
 - [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.[Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
 - [x] Entender los conceptos de los servicios en la nube. [Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
-- [x] Entender el concepto de provisionamiento.
+- [x] Entender el concepto de provisionamiento. [Ejercicios 6 - Todos](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema6.md)
 
 ##### Otros objetivos
 
 - [x] Instalar clientes de servicios en la nube. [Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
 - [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
-- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube. [Ejercicios 6 - Todos](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema6.md)
 
 
 ### Semana a partir del 22 de diciembre.
