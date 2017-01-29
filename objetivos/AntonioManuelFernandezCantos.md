@@ -152,7 +152,7 @@ Comprender los mecanismos de despliegue automático.
 - [] Trabajar con varias imágenes de docker conectadas.
 
 ### Sesión 11, comienzo 1 de Diciembre ###
-
+[Ejercicios tema 5](https://github.com/Antkk10/EjerciciosIV/blob/master/EjerciciosTema5.md)
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 - [x] Instalar hipervisores libres y trabajar con ellos.
 - [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
@@ -161,6 +161,7 @@ Comprender los mecanismos de despliegue automático.
 - [x] Realizar tareas de administración de infraestructuras virtuales
 
 ### Sesión 12, comienzo 15 de Diciembre ###
+[Ejercicios tema 6](https://github.com/Antkk10/EjerciciosIV/blob/master/EjerciciosTema6.md)
 - [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
 - [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 - [x] Entender los conceptos de los servicios en la nube.
