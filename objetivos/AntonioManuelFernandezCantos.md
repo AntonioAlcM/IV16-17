@@ -141,3 +141,44 @@ Comprender los mecanismos de despliegue automático.
 - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 - [x] Crear infraestructuras virtuales completas.
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+### Sesión 10, comienzo 24 de Noviembre ###
+
+#### Objetivos de la semana ####
+
+- [x] Usar docker en una aplicación real.
+- [x] Publicar imágenes de docker.
+- [x] Probar imágenes de docker publicadas.
+- [] Trabajar con varias imágenes de docker conectadas.
+
+### Sesión 11, comienzo 1 de Diciembre ###
+[Ejercicios tema 5](https://github.com/Antkk10/EjerciciosIV/blob/master/EjerciciosTema5.md)
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales
+
+### Sesión 12, comienzo 15 de Diciembre ###
+[Ejercicios tema 6](https://github.com/Antkk10/EjerciciosIV/blob/master/EjerciciosTema6.md)
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+### Sesión 13, comienzo 22 de Diciembre ###
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+### Sesión 14, comienzo 14 de Enero ###
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+### Sesión 15, comienza 21 de Enero ###
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
