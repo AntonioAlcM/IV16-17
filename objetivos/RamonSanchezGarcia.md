@@ -211,10 +211,48 @@
 #### Objetivos de la semana
 - [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
 - [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
-- [ ] Entender los conceptos de los servicios en la nube.
-- [ ] Entender el concepto de provisionamiento.
+- [X] Entender los conceptos de los servicios en la nube.
+- [X] Entender el concepto de provisionamiento.
 #### Otros objetivos
-- [ ] Instalar clientes de servicios en la nube.
-- [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
-- [ ] Hacer pruebas de provisionamiento de servicios en la nube.
-- [ ] Check-in en clase
+- [X] Instalar clientes de servicios en la nube.
+- [X] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [X] Hacer pruebas de provisionamiento de servicios en la nube.
+
+
+#### Tema 6. Gestión de infraestructuras virtuales
+
+**Objetivos de la asignatura**
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+**Objetivos específicos**
+
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+
+## Sesión 13 (Semana del 15 al 22 de Diciembre)
+
+**Objetivos de la asignatura**
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+**Objetivos adicionales**
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+## Sesión 14, (Semana del 7 al 14 de enero de 2017)
+
+**Objetivos de la asignatura**
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+
+## Sesión 15, (Semana del 14 al 21 de enero de 2017)
+
+**Objetivos de la asignatura**
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
+- ** Los ejercicios del tema 5 están [aquí](https://github.com/Chentaco/EjerciciosIV/blob/master/tema5.md)**
+- ** Los ejercicios del tema 6 están [aquí](https://github.com/Chentaco/EjerciciosIV/blob/master/tema6.md)**
