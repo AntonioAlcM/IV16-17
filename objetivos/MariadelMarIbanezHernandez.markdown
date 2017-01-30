@@ -120,7 +120,7 @@
 - [x] Probar diferentes máquinas virtuales con sistemas operativos libres.
 
 
-![Ejercicios Tema 5](https://github.com/maribhez/IV-Ejercicios/blob/master/ejericiciosT5.mkd "Ejercicios Tema 5")
+[Ejercicios Tema 5](https://github.com/maribhez/IV-Ejercicios/blob/master/ejericiciosT5.mkd "Ejercicios Tema 5")
 
 
 # Sexta semana.
