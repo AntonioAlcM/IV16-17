@@ -80,9 +80,9 @@
 
 [Ejercicios Tema 3](https://github.com/maribhez/IV-Ejercicios/blob/master/ejercicios3.mkd "Ejercicios Tema 3")
 
-#Quinta semana. 
+#Quinta semana.
 
-##Objetivos a cubrir en la sesión. 
+##Objetivos a cubrir en la sesión.
 
 - [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 - [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
@@ -94,7 +94,7 @@
 - [x] Realizar tareas de administración en infraestructura virtual.
 
 
-##Objetivos específicos. 
+##Objetivos específicos.
 
 - [x]Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 
@@ -107,3 +107,34 @@
 [Ejercicios Tema 4](https://github.com/maribhez/IV-Ejercicios/blob/master/Ejercicios4.markdown "Ejercicios Tema 4")
 
 
+
+# Quinta semana.
+
+##Objetivos a cubrir en la sesión.
+
+- [x] Comprender el concepto de hipervisor y sus diferentes tipos.
+
+## Otros objetivos.
+
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes máquinas virtuales con sistemas operativos libres.
+
+
+[Ejercicios Tema 5](https://github.com/maribhez/IV-Ejercicios/blob/master/ejericiciosT5.mkd "Ejercicios Tema 5")
+
+
+# Sexta semana.
+
+## Objetivos a cubrir en la sesión.
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado.
+- [x] Entender los conceptos de servicios en la nube.
+- [x] Entender el conceto de provisionamiento.
+
+## Otros objetivos.
+
+- [x] Instalar clientes de servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+
+[Ejercicios Tema 6](https://github.com/maribhez/IV-Ejercicios/blob/master/ejerciciosT6.md "Ejercicios Tema 6")
