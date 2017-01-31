@@ -191,12 +191,12 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 #### Objetivos de la semana
 
-- [ ] 1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] 1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 #### Otros objetivos
 
-- [ ] 1. Instalar hipervisores libres y trabajar con ellos.
-- [ ] 2. Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] 1. Instalar hipervisores libres y trabajar con ellos.
+- [x] 2. Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 
 [//]: # (------------------------)
@@ -207,15 +207,15 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 #### Objetivos de la semana
 
 - [ ] 1. Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
-- [ ] 2. Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. 
-- [ ] 3. Entender los conceptos de los servicios en la nube.
-- [ ] 4. Entender el concepto de provisionamiento.
+- [x] 2. Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. 
+- [x] 3. Entender los conceptos de los servicios en la nube.
+- [x] 4. Entender el concepto de provisionamiento.
 
 #### Otros objetivos
 
-- [ ] 1. Instalar clientes de servicios en la nube.
+- [x] 1. Instalar clientes de servicios en la nube.
 - [ ] 2. Entender temas de seguridad de la información relacionados con los servicios en la nube.
-- [ ] 3. Hacer pruebas de provisionamiento de servicios en la nube.
+- [x] 3. Hacer pruebas de provisionamiento de servicios en la nube.
 
 
 [//]: # (------------------------)
@@ -225,13 +225,40 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 #### Objetivos de la asignatura
 
-- [ ] 1. Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
 
 #### Otros objetivos
 
-- [ ] 1. Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en
 [Meetup](https://www.meetup.com/es-ES/Granada-Geek/events/235054689/) y preparar un equipo para participar en el hackatón de por la tarde.
 
+
+[//]: # (------------------------)
+
+
+### Decimocuarta semana (del 14 al 20 de enero de 2017)
+
+#### Objetivos de la asignatura
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+#### Objetivos adicionales
+
+- [x] Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+
+[//]: # (------------------------)
+
+
+### Decimoquinta semana (del 21 de enero de 2017 hasta exámenes)
+
+#### Objetivos de la asignatura
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
+
+#### Objetivos adicionales
+
+- **NINGUNO**
 
 ------------------------------------------------------------------------------
 
@@ -270,14 +297,14 @@ todos los jueves a partir de las 12:30 está la OSL en la sala de reuniones.
 
 ### 5) Virtualización completa: uso de máquinas virtuales
 
-- [ ] 1.   Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] 1. Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 - [ ] 2. Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
-- [ ] 3. Documentar y mantener una plataforma virtual.
-- [ ] 4. Realizar tareas de administración de infraestructuras virtuales.
+- [x] 3. Documentar y mantener una plataforma virtual.
+- [x] 4. Realizar tareas de administración de infraestructuras virtuales.
 
 
 ### 6) Gestión de infraestructuras virtuales
 
-- [ ] 1. Aprender lenguajes de configuración usados en infraestructuras virtuales.
-- [ ] 2. Saber cómo aplicarlos en un caso determinado.
+- [x] 1. Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] 2. Saber cómo aplicarlos en un caso determinado.
 - [ ] 3. Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
