@@ -127,3 +127,13 @@ Por otro lado, los costes de mantenimiento son nulos en lo que se refiere al har
 * [x] Crear infraestructuras virtuales completas.
 
 * [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+
+#### Práctica 5 (*Lunes 30 de Enero 2017*)
+
+##### [Repositorio de ejercicios](https://github.com/MarFerPra/EjerciciosIV/blob/master/Tema5.md)
+
+* [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+* [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+* [x] Documentar y mantener una plataforma virtual.
+* [x] Realizar tareas de administración de infraestructuras virtuales.

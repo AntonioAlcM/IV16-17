@@ -1,7 +1,7 @@
 # Objetivos Francisco José Fernández Muelas
 
 ### Semana a partir del 22 de septiembre de 2016
-  
+
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura y darse de alta en la lista de Telegram si lo considera conveniente.
 - [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
@@ -149,6 +149,45 @@
 - [x] Usar docker en una aplicación real. [Ejercicios 0 e hito 4 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
 
 ##### Otros objetivos
-- [ ] Publicar imágenes de docker.
+- [x] Publicar imágenes de docker.
 - [x] Probar imágenes de docker publicadas. [Ejercicios 7 y 10 - Tema 4](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema4.md)
-- [ ] Trabajar con varias imágenes de docker conectadas.
+- [x] Trabajar con varias imágenes de docker conectadas.
+
+
+### Semana a partir del 1 de diciembre.
+
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+##### Otros objetivos
+
+- [x] Instalar hipervisores libres y trabajar con ellos. [Ejercicio 1 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres. [Ejercicio 2 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
+
+### Semana a partir del 15 de diciembre.
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.[Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
+- [x] Entender los conceptos de los servicios en la nube. [Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
+- [x] Entender el concepto de provisionamiento. [Ejercicios 6 - Todos](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema6.md)
+
+##### Otros objetivos
+
+- [x] Instalar clientes de servicios en la nube. [Ejercicio 5 - Tema 5](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema5.md)
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube. [Ejercicios 6 - Todos](https://github.com/fjfernandez93/EjerciciosIV/blob/master/tema4/EjerciciosTema6.md)
+
+
+### Semana a partir del 22 de diciembre.
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+##### Otros objetivos
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+
+### Semana a partir del 14 de enero.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube. [Hito 5]
+
+### Semana a partir del 21 de enero.
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura (Consulta sobre la separación de funciones entre Vagrant, Ansible y Fabric)

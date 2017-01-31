@@ -80,3 +80,52 @@
 * [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 * [x] Crear infraestructuras virtuales completas.
 * [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+###Semana del 1 al 6 de Diciembre
+
+[Ejercicios del tema 5](https://github.com/manuasir/EjerciciosIV/blob/master/tema5/README.md)
+
+- [x] 	Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] 	Instalar hipervisores libres y trabajar con ellos.
+- [x] 	Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] 	Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+
+###Semana del 15 al 21 de Diciembre
+
+- [x]	Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [ ]	Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x]	Entender los conceptos de los servicios en la nube.
+- [x]	Entender el concepto de provisionamiento.
+- [x]	Instalar clientes de servicios en la nube.
+- [x]	Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [ ]	Hacer pruebas de provisionamiento de servicios en la nube.
+- [x]	Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x]	Documentar y mantener una plataforma virtual.
+- [ ]	Realizar tareas de administración en infraestructura virtual.
+- [x]	Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x]	Saber cómo aplicarlos en un caso determinado.
+- [ ]	Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
+###Semana del 22 de Diciembre
+
+[Ejercicios del tema 6](https://github.com/manuasir/EjerciciosIV/blob/master/tema6/README.md)
+
+- [x]	Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+- [ ]	Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+###Semana 14 de enero
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [] Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+###Semana del 21 de enero
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura

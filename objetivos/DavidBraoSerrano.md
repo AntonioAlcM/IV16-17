@@ -144,3 +144,24 @@
 - [x] Probar imágenes de docker publicadas. 
 - [ ] Trabajar con varias imágenes de docker conectadas.
 
+## Semana a partir del 22 de diciembre (Sesión 11)
+
+### Objetivos de la semana
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+### Otros objetivos
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+## Semana a partir del 14 de enero de 2017 (Sesión 12)
+
+### Objetivos de la semana
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+## Semana a partir del 21 de enero de 2017 (Sesión 13)
+
+### Objetivos de la semana
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura

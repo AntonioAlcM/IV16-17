@@ -174,18 +174,121 @@ Aprender a usar integración continua en cualquier aplicación.
 
 ##Undécima semana, comienza el 1 de Diciembre
 
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 ##Otros objetivos
 
-- [ ] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 ##Objetivos de teoría. TEMA 5.
 
 [Ejercicios del tema 5](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema5.md)
 
-- [ ] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
-- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
-- [ ] Documentar y mantener una plataforma virtual.
-- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+##Duodécima semana, comienza el 15 de Diciembre
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+###Otros objetivos
+
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+##Objetivos de teoría. TEMA 6.
+
+[Ejercicios del tema 6](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_tema6.md)
+
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
+##Décimo tercera semana, 22 de diciembre de 2016
+
+- [ ] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+###Otros objetivos
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+##Décimo cuarta semana, 14 de enero de 2017
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+###Otros objetivos
+
+- [x] Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+##Décimoquinta semana, 21 de enero de 2017
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
+
+
+----------
+
+#Objetivos adicionales:
+
+##Objetivos de teoría. TEMA Técnicas de virtualización(ADICIONAL)
+
+[Ejercicios del tema Técnicas de virtualización](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_TemaAdicional1(T%C3%A9cnicas%20de%20virtualizaci%C3%B3n).md)
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware.
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+- [x] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+###Otros objetivos
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+- [x] Crear infraestructuras virtuales básicas: dispositivos.
+
+- [x] Aislar recursos (incluyendo todos los relacionados con un usuario) usando jaulas a base de órdenes del sistema y diferentes utilidades.
+
+##Objetivos de teoría. TEMA Virtualización del almacenamiento(ADICIONAL)
+
+[Ejercicios del tema Técnicas de virtualización](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_TemaAdicional2(Virtualizaci%C3%B3n%20del%20almacenamiento).md)
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+- [x] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida
+
+- [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+###Otros objetivos
+
+- [x] Conocer las técnicas de provisionamiento de almacenamiento de datos para máquinas virtuales.
+
+- [x] Saber usar diferentes órdenes y utilidades para crearlas.
+
+##Objetivos de SEMINARIOS. Seminario 1. Una introducción ligera al lenguaje Ruby
+
+[Ejercicios del Seminario 1](https://github.com/rubenjo7/IV-Ejercicios/blob/master/Ejercicios_Seminario1.md)
+
+- [x] Conocer la historia y origenes de este lenguaje
+
+- [x] Entender los conceptos principales detrás del mismo
+
+- [x] Conocer y saber usar la sintaxis
+
+- [x] Aprender las estructuras de datos y control principales
+
+- [x] Instalar y usar bibliotecas
+
+- [x] Hacer un pequeño programa
